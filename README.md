@@ -8,3 +8,7 @@ Roblox developer, an actual clash blaster fan, and from the middle of nowhere
 # (Fedi)verse
 - [Mastodon (Primary)](https://mstdn.social/@experiencersinternational)
 - [Mastodon (Splatoon Account)](https://masto.ai/@splatoon)
+
+---
+
+⚠️ If you got redirected here, this could be because I have GitHub pages enabled for this repository.
