@@ -1,12 +1,13 @@
 Hello there!
 
-Roblox developer, an actual clash blaster fan, and from the middle of nowhere
+Roblox developer, an actual clash blaster fan, and <s>from the middle of nowhere</s>
 
 ## (Meta)verse
 - [Roblox](https://www.roblox.com/users/profile?username=GamersInternational)
 
 ## (Fedi)verse
-- [Mastodon (Primary)](https://mstdn.social/@experiencersinternational)
+- [Firefish (Primary)](https://lethallava.land/@experiencer)
+- [Firefish (Alt Splatoon Account)](https://splatsville.social/@splatoon)
 - [Mastodon (Splatoon Account)](https://masto.ai/@splatoon)
 
 ## (Stream)verse
@@ -26,7 +27,6 @@ Roblox developer, an actual clash blaster fan, and from the middle of nowhere
 ## (Everythingelse)verse
 - [GitHub](https://github.com/ExperiencersInternational)
 - [GitLab](https://gitlab.com/ExperiencersInternational)
+- [Matrix](https://matrix.to/#/@experiencersinternational:matrix.org)
 - [Portfolio (it's an awful website)](https://experiencersinternational.github.io/shortlinks/website)
 - [Website (sorta)](https://experiencersinternational.github.io/shortlinks)
-
-<link rel="me" href="https://mstdn.social/@experiencersinternational">
