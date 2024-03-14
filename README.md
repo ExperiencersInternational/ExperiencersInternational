@@ -1,6 +1,8 @@
 Hello there!
 
-Roblox developer, an actual clash blaster fan, and <s>from the middle of nowhere</s>
+I used to develop stuff on the Roblox platform but I have moved away from that. I specialised in UI and graphics design.
+
+I run the Splatoon Unofficial and Crossing Corner accounts on the fediverse now, which almost have a combined 800 followers.
 
 ## (Meta)verse
 - [Roblox](https://www.roblox.com/users/profile?username=GamersInternational)
@@ -30,6 +32,10 @@ Roblox developer, an actual clash blaster fan, and <s>from the middle of nowhere
 - [Linus Tech Tips](https://linustechtips.com/profile/833684-experiencersinternational/)
 - [Roblox Developer Forum](https://devforum.roblox.com/u/GamersInternational/summary)
 - [XDA Developers](https://forum.xda-developers.com/m/experiencersinternational.12330289/)
+
+## (Music)verse
+- [last.fm](https://www.last.fm/user/floppydiskmasta)
+- [ListenBrainz](https://listenbrainz.org/user/floppydiskmasta/)
 
 ## (Everythingelse)verse
 - [GitHub](https://github.com/ExperiencersInternational)
