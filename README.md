@@ -6,9 +6,10 @@ Roblox developer, an actual clash blaster fan, and <s>from the middle of nowhere
 - [Roblox](https://www.roblox.com/users/profile?username=GamersInternational)
 
 ## (Fedi)verse
-- [Firefish (Primary)](https://lethallava.land/@experiencer)
+- [Sharkey (Primary)](https://lethallava.land/@experiencer)
+- [Mastodon (Splatoon Account)](https://wetdry.world/@splatoon)
 - [Firefish (Alt Splatoon Account)](https://splatsville.social/@splatoon)
-- [Mastodon (Splatoon Account)](https://masto.ai/@splatoon)
+- [Mastodon (Crossing Account)](https://wetdry.world/@crossing)
 
 ## (Stream)verse
 - [Odysee](https://odysee.com/@ExperiencersInternational:3)
@@ -17,6 +18,11 @@ Roblox developer, an actual clash blaster fan, and <s>from the middle of nowhere
 - [YouTube (Second Channel)](https://www.youtube.com/@ExperiencersInternationalExtra)
 - [YouTube (Shorts, kinda inactive)](https://www.youtube.com/@ExperiencersInternationalShort)
 - [YouTube (inactive development channel)](https://www.youtube.com/@DevBitesRBX)
+
+## (Communications)verse
+
+- [Matrix](https://matrix.to/#/@experiencersinternational:matrix.org)
+- [Signal](https://signal.me/#eu/n5OeSH59G5mMK6Ol58X8mBBUDeX_EC4AFkngOGAX6uBayO9ZemlDWpqgJhqA5rK-)
 
 ## (Forum)verse
 - [GBAtemp](https://gbatemp.net/members/experiencersinternational.596272/)
