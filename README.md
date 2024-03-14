@@ -7,6 +7,7 @@ Roblox developer, an actual clash blaster fan, and <s>from the middle of nowhere
 
 ## (Fedi)verse
 - [Sharkey (Primary)](https://lethallava.land/@experiencer)
+- [Pixelfed](https://pixelfed.social/@experiencer)
 - [Mastodon (Splatoon Account)](https://wetdry.world/@splatoon)
 - [Firefish (Alt Splatoon Account)](https://splatsville.social/@splatoon)
 - [Mastodon (Crossing Account)](https://wetdry.world/@crossing)
@@ -33,6 +34,5 @@ Roblox developer, an actual clash blaster fan, and <s>from the middle of nowhere
 ## (Everythingelse)verse
 - [GitHub](https://github.com/ExperiencersInternational)
 - [GitLab](https://gitlab.com/ExperiencersInternational)
-- [Matrix](https://matrix.to/#/@experiencersinternational:matrix.org)
-- [Portfolio (it's an awful website)](https://experiencersinternational.github.io/shortlinks/website)
-- [Website (sorta)](https://experiencersinternational.github.io/shortlinks)
+- [Portfolio (it's an awful website)](https://experiencersinternational.github.io/website)
+- [Website (sorta)](https://experiencersinternational.github.io)
