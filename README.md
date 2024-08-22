@@ -1,14 +1,17 @@
-Hello there!
+Hello there! 👋
 
-I used to develop stuff on the Roblox platform but I have moved away from that. I specialised in UI and graphics design.
+Formerly an aspiring UI/Graphics designer on the Roblox platform for 4 years 🎨
 
-I run the Splatoon Unofficial and Crossing Corner accounts on the fediverse now, which almost have a combined 800 followers.
+I run the Splatoon Unofficial and Crossing Corner news accounts on the fediverse with around 900 followers combined 📰
+
+I'm passionate about photography 📸 and I'm currently a category moderator (in General, Support and Technical Discussion) in Pretendo Network's forums 🔨
 
 ## (Meta)verse
 - [Roblox](https://www.roblox.com/users/profile?username=GamersInternational)
 
 ## (Fedi)verse
 - [Sharkey (Primary)](https://lethallava.land/@experiencer)
+- [Iceshrimp (Alt Account)](https://wolfdo.gg/@exp)
 - [Pixelfed](https://pixelfed.social/@experiencer)
 - [Mastodon (Splatoon Account)](https://wetdry.world/@splatoon)
 - [Firefish (Alt Splatoon Account)](https://splatsville.social/@splatoon)
@@ -30,8 +33,11 @@ I run the Splatoon Unofficial and Crossing Corner accounts on the fediverse now,
 ## (Forum)verse
 - [GBAtemp](https://gbatemp.net/members/experiencersinternational.596272/)
 - [Linus Tech Tips](https://linustechtips.com/profile/833684-experiencersinternational/)
+- [Pretendo Network Forums](https://forum.pretendo.network/u/gamersinternatio)
 - [Roblox Developer Forum](https://devforum.roblox.com/u/GamersInternational/summary)
 - [XDA Developers](https://forum.xda-developers.com/m/experiencersinternational.12330289/)
+
+<small>Available on some other forums, but I don't post on them often or I don't want to share links for privacy reasons.</small>
 
 ## (Music)verse
 - [last.fm](https://www.last.fm/user/floppydiskmasta)
