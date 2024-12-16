@@ -4,7 +4,7 @@ Formerly an aspiring UI/Graphics designer on the Roblox platform for 4 years �
 
 I run the Splatoon Unofficial and Crossing Corner news accounts on the fediverse with around 900 followers combined 📰
 
-I'm passionate about photography 📸 and I'm currently a category moderator (in General, Support and Technical Discussion) in Pretendo Network's forums 🔨
+I'm passionate about photography 📸 and I'm currently a category moderator in Pretendo Network's forums 🔨
 
 ## (Meta)verse
 - [Roblox](https://www.roblox.com/users/profile?username=GamersInternational)
@@ -39,12 +39,13 @@ I'm passionate about photography 📸 and I'm currently a category moderator (in
 
 <small>Available on some other forums, but I don't post on them often or I don't want to share links for privacy reasons.</small>
 
-## (Music)verse
+## (Media)verse
 - [last.fm](https://www.last.fm/user/floppydiskmasta)
 - [ListenBrainz](https://listenbrainz.org/user/floppydiskmasta/)
 
 ## (Everythingelse)verse
 - [GitHub](https://github.com/ExperiencersInternational)
 - [GitLab](https://gitlab.com/ExperiencersInternational)
+- [Juxtaposition (Pretendo)](https://juxt.pretendo.network/users/1710944699)
 - [Portfolio (it's an awful website)](https://experiencersinternational.github.io/website)
 - [Website (sorta)](https://experiencersinternational.github.io)
