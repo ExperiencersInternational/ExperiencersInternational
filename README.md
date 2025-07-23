@@ -4,7 +4,7 @@ Formerly an aspiring UI/Graphics designer on the Roblox platform for 4 years �
 
 I run the Splatoon Unofficial and Crossing Corner news accounts on the fediverse with around 900 followers combined 📰
 
-I'm passionate about photography 📸 and I'm currently a category moderator in Pretendo Network's forums 🔨
+I'm passionate about photography 📸, currently studying digital media 🎞️ and I'm a moderator in Pretendo Network's forums 🔨
 
 ## (Meta)verse
 - [Roblox](https://www.roblox.com/users/profile?username=GamersInternational)
@@ -27,8 +27,11 @@ I'm passionate about photography 📸 and I'm currently a category moderator in 
 
 ## (Communications)verse
 
+- [Email](mailto:gamersinternationalhelp+ghbio@gmail.com)
 - [Matrix](https://matrix.to/#/@experiencersinternational:matrix.org)
 - [Signal](https://signal.me/#eu/n5OeSH59G5mMK6Ol58X8mBBUDeX_EC4AFkngOGAX6uBayO9ZemlDWpqgJhqA5rK-)
+
+<small>Reachable on WhatsApp too, just send me a message somewhere else first and I'll send you a number over.</small>
 
 ## (Forum)verse
 - [GBAtemp](https://gbatemp.net/members/experiencersinternational.596272/)
