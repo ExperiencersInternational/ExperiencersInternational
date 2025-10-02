@@ -1,10 +1,10 @@
 Hello there! 👋
 
-Formerly an aspiring UI/Graphics designer on the Roblox platform for 4 years 🎨
+Formerly an aspiring UI/Graphics designer on the Roblox platform for 5 years 🎨 and formerly a god awful YouTube content creator 🎥
 
 I run the Splatoon Unofficial and Crossing Corner news accounts on the fediverse with around 900 followers combined 📰
 
-I'm passionate about photography 📸, currently studying digital media 🎞️ and I'm a moderator in Pretendo Network's forums 🔨
+I'm passionate about photography 📸, currently studying digital media at level 3 🎞️ and I'm a moderator in Pretendo Network's forums 🔨
 
 ## (Meta)verse
 - [Roblox](https://www.roblox.com/users/profile?username=GamersInternational)
@@ -22,8 +22,6 @@ I'm passionate about photography 📸, currently studying digital media 🎞️ 
 - [Twitch](https://twitch.tv/experiencersinternational)
 - [YouTube](https://www.youtube.com/@ExperiencersInternational)
 - [YouTube (Second Channel)](https://www.youtube.com/@ExperiencersInternationalExtra)
-- [YouTube (Shorts, kinda inactive)](https://www.youtube.com/@ExperiencersInternationalShort)
-- [YouTube (inactive development channel)](https://www.youtube.com/@DevBitesRBX)
 
 ## (Communications)verse
 
@@ -45,6 +43,8 @@ I'm passionate about photography 📸, currently studying digital media 🎞️ 
 ## (Media)verse
 - [last.fm](https://www.last.fm/user/floppydiskmasta)
 - [ListenBrainz](https://listenbrainz.org/user/floppydiskmasta/)
+
+<small>I'm on Letterboxd too, but I don't currently share my username out publically.</small>
 
 ## (Everythingelse)verse
 - [GitHub](https://github.com/ExperiencersInternational)
