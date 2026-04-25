@@ -1,3 +1,8 @@
+<link rel="me" href="https://lethallava.land/@experiencer">
+<link rel="me" href="https://wolfdo.gg/@exp">
+<link rel="me" href="https://wetdry.world/@splatoon">
+<link rel="me" href="https://wetdry.world/@crossing">
+
 Hello there! 👋
 
 Formerly an aspiring UI/Graphics designer on the Roblox platform for 5 years 🎨 and formerly a god awful YouTube content creator 🎥
@@ -52,4 +57,4 @@ I'm passionate about photography 📸, currently studying digital media at level
 - [Juxtaposition (Pretendo)](https://juxt.pretendo.network/users/1710944699)
 - [Portfolio (it's an awful website)](https://experiencersinternational.github.io/website)
 - [Website (sorta)](https://experiencersinternational.github.io)
-- [Ko-fi](https://experiencersinternational.github.io/ExperiencersInternational/)
+- [Ko-fi](https://ko-fi.com/experiencersinternational/)
